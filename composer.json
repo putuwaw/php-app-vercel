@@ -1,0 +1,9 @@
+{
+    "name": "putuwaw/php-app-vercel",
+    "description": "Deploy PHP Application to Vercel",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
